@@ -1,0 +1,16 @@
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\bin\Debug\StudentProject.exe.config
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\bin\Debug\StudentProject.exe
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\bin\Debug\StudentProject.pdb
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\obj\Debug\StudentProject.csprojAssemblyReference.cache
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\obj\Debug\StudentProject.Properties.Resources.resources
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\obj\Debug\StudentProject.csproj.GenerateResource.cache
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\obj\Debug\StudentProject.exe
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\obj\Debug\StudentProject.pdb
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\bin\Debug\MySql.Data.dll
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\bin\Debug\Renci.SshNet.dll
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\bin\Debug\MySql.Data.xml
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\obj\Debug\StudentProject.csproj.CopyComplete
+C:\Users\Govind Yatnalkar\Source\Repos\StudentProject\obj\Debug\StudentProject.StudentForm.resources
